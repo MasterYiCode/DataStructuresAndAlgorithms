@@ -1,0 +1,15 @@
+C:\Revise\ReviseDataStructuresAndAlgorithms\BongDen\bin\Debug\net6.0\BongDen.exe
+C:\Revise\ReviseDataStructuresAndAlgorithms\BongDen\bin\Debug\net6.0\BongDen.deps.json
+C:\Revise\ReviseDataStructuresAndAlgorithms\BongDen\bin\Debug\net6.0\BongDen.runtimeconfig.json
+C:\Revise\ReviseDataStructuresAndAlgorithms\BongDen\bin\Debug\net6.0\BongDen.dll
+C:\Revise\ReviseDataStructuresAndAlgorithms\BongDen\bin\Debug\net6.0\BongDen.pdb
+C:\Revise\ReviseDataStructuresAndAlgorithms\BongDen\obj\Debug\net6.0\BongDen.csproj.AssemblyReference.cache
+C:\Revise\ReviseDataStructuresAndAlgorithms\BongDen\obj\Debug\net6.0\BongDen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revise\ReviseDataStructuresAndAlgorithms\BongDen\obj\Debug\net6.0\BongDen.AssemblyInfoInputs.cache
+C:\Revise\ReviseDataStructuresAndAlgorithms\BongDen\obj\Debug\net6.0\BongDen.AssemblyInfo.cs
+C:\Revise\ReviseDataStructuresAndAlgorithms\BongDen\obj\Debug\net6.0\BongDen.csproj.CoreCompileInputs.cache
+C:\Revise\ReviseDataStructuresAndAlgorithms\BongDen\obj\Debug\net6.0\BongDen.dll
+C:\Revise\ReviseDataStructuresAndAlgorithms\BongDen\obj\Debug\net6.0\refint\BongDen.dll
+C:\Revise\ReviseDataStructuresAndAlgorithms\BongDen\obj\Debug\net6.0\BongDen.pdb
+C:\Revise\ReviseDataStructuresAndAlgorithms\BongDen\obj\Debug\net6.0\BongDen.genruntimeconfig.cache
+C:\Revise\ReviseDataStructuresAndAlgorithms\BongDen\obj\Debug\net6.0\ref\BongDen.dll
